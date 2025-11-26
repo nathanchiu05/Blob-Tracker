@@ -12,12 +12,10 @@ Trained XML classifier used to identify cars.
 <img width="446" height="356" alt="my_blobtracking" src="https://github.com/user-attachments/assets/b9fe0e64-bd7b-408f-bbb6-852c85168bd0" />
 
 # Dependencies
-<u>opencv-contrib<u>
+<u>opencv-contrib install</u>
 <pre>
-```bash
 pip install opencv-contrib-python
-```
 </pre>
 
-<u>Video Codecs<u>
+<u>Video Codecs</u>
 - To ensure video reading/writing, inputs must be in MP4 format 
